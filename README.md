@@ -1,5 +1,5 @@
 # Eye-Tracker
-Description: This includes two eyes. The eye ball in each of the eye move together in the direction in which the mouse is moved.
+Description: This includes two eyes. The eye balls in each eye move together in the direction in which the mouse is moved.
 
 How to Run: To run this project, open the index.html file in any browser and refresh.
 

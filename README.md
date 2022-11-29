@@ -1,7 +1,7 @@
 # Eye-Exercise
-Description: This includes two eyes. The eye balls in each eye move together in the direction in which the mouse is moved.
+Description: This includes two eyes. The eye balls in each eye move together in the direction in which the mouse is moved. Also, the speed of the movement of the eyeballs will be proportionaly to the speed at which the mouse is being moved.
 
-How to Run: To run this project, open the index.html file in any browser and refresh.
+How to Run: To run this project, open the index.html file in any browser and refresh. This can be done by first forking the repository on GitHub and then cloning it to your harddrive.
 
 Next Steps: I plan to play with the positioning of the eyes and also change the background colors and the size of the eyes and the eye balls.
 
